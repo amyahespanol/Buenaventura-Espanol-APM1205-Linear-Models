@@ -1,0 +1,6 @@
+Predictor,Unstandardized_Beta,1_SD_of_Predictor,Bike_Change_per_1SD_Shift,Standardized_Beta (Beta*),p_value
+Temperature,35.2201,11.9448,420.6976,0.6522,0.0
+Humidity,-10.3032,20.3624,-209.7975,-0.3253,0.0
+Solar_Radiation,-114.0927,0.8687,-99.1176,-0.1537,0.0
+Rainfall,-50.7279,1.1282,-57.2309,-0.0887,0.0
+Wind_Speed,52.6283,1.0363,54.5387,0.0846,0.0

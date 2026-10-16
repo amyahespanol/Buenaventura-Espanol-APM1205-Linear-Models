@@ -1,0 +1,5 @@
+Season,Interaction_Delta (vs_Winter),Net_Temperature_Slope (bikes/hr per °C)
+Winter (Reference),0.0,22.8705
+Spring,27.5846,50.4551
+Summer,-15.5058,7.3647
+Autumn,6.9339,29.8044

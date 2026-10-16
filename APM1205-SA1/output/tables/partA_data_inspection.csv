@@ -1,0 +1,15 @@
+,Data_Type_Before,Missing_Count,Missing_Percent,Unique_Values
+Date,datetime64[ns],0,0.0,365
+Bike_Count,int64,0,0.0,2166
+Hour,int64,0,0.0,24
+Temperature,float64,0,0.0,546
+Humidity,int64,0,0.0,90
+Wind_Speed,float64,0,0.0,65
+Visibility,int64,0,0.0,1789
+Dew_Point,float64,0,0.0,556
+Solar_Radiation,float64,0,0.0,345
+Rainfall,float64,0,0.0,61
+Snowfall,float64,0,0.0,51
+Seasons,category,0,0.0,4
+Holiday,category,0,0.0,2
+Functioning_Day,category,0,0.0,2

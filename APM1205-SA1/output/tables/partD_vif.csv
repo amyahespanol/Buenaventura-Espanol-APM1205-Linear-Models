@@ -1,0 +1,7 @@
+Variable,VIF
+const,1.0
+Temperature,1.36
+Humidity,1.619
+Wind_Speed,1.196
+Solar_Radiation,1.764
+Rainfall,1.065

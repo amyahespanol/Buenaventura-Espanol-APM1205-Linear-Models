@@ -1,0 +1,5 @@
+,sum_sq,df,F,PR(>F)
+"C(Seasons, Treatment(reference='Winter'))",748571610.328,3.0,759.31,0.0
+"C(Holiday, Treatment(reference='No Holiday'))",1930305.192,1.0,5.874,0.0154
+"C(Seasons, Treatment(reference='Winter')):C(Holiday, Treatment(reference='No Holiday'))",219621.802,3.0,0.2228,0.8806
+Residual,2876075429.3279,8752.0,,

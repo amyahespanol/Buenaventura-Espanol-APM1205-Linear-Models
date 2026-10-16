@@ -1,0 +1,9 @@
+,sum_sq,df,F,PR(>F)
+"C(Seasons, Treatment(reference='Winter'))",39714278.7991,3.0,55.419,0.0
+Temperature,266695222.1669,1.0,1116.4729,0.0
+"Temperature:C(Seasons, Treatment(reference='Winter'))",67264088.5213,3.0,93.8631,0.0
+Humidity,238420584.8834,1.0,998.1061,0.0
+Wind_Speed,28266078.9217,1.0,118.331,0.0
+Solar_Radiation,44149897.1321,1.0,184.8258,0.0
+Rainfall,32476051.758,1.0,135.9553,0.0
+Residual,2089660986.4242,8748.0,,
